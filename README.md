@@ -36,9 +36,6 @@ When user opens "All groups" page:
 ## ERD:
 <img src="app/assets/images/Transaction_app.jpeg">
 
-## Video explanation Link:
-[watch loom video](https://www.loom.com/share/2d26da7bcc25458eb7487063b222a374).
-
 ## Build-With
 
 - Ruby -v 2.7.1
@@ -56,7 +53,7 @@ To get this project up and running locally, you must already have ruby and neces
 
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
-3. Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/transactions_app
+3. Copy and paste the following code into the Terminal: git clone https://github.com/JavSFDev/Transactions_app.git
 4. Run ```cd transactions_app```.
 5. Run ```bundle install``` to get the necesary gems.
 6. Run ```yarn install --check-files``` .
@@ -67,14 +64,6 @@ To get this project up and running locally, you must already have ruby and neces
 **To check the Rspec Testcases on your local machine, follow these simple steps:**
 1. Run ```bundle exec rspec ```
 
-## Author Details::
-
-👤 **Lamia Sristy**
-
-- Github: [@LamiaSristy](https://github.com/LamiaSristy)
-- Linkedin: [@LamiaSristy](https://www.linkedin.com/in/lamia-hemayet-sristy/)
-- E-mail: <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>  
-- Twitter: [@LamiaSristy](https://twitter.com/lsristy1)
 
 ## Acknowledgment::
 
